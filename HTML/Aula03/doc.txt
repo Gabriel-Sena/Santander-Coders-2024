@@ -1,0 +1,7 @@
+- Cabeçalhos: tags de títulos que definem o cabeçalho de seções;
+- Parágrafos: a tag "p" faz a quebra de linha automáticamente;
+- Quebra de Linha: utiliza-se da tag "br" (break row) para efetuar a quebra de linhas no html;
+- Divisor de Linha: utiliza-se da tag "hr" (horizontal row) para fazer um divisor entre os textos;
+- Links: utiliza-se da tag "a" para adicionar links na página html.
+    A propiedade "href" serve para colocar o link para onde desejo navegar;
+    A propiedade "target" serve para escolher o tipo de navegação. Ex: arget="_blank", mostra meu link aberto em outra aba, sem precisar sair da aba da minha página.
