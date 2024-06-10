@@ -1,0 +1,5 @@
+- A barra de navegção padrão sempre fica dentro da tag header;
+
+- Ela é composta por uma lista de links;
+
+- href="/": essa barra é usada quando eu quero que o link me leve para a página inicial do site;
