@@ -1,0 +1,15 @@
+- HTML é a base da Web e está presente no Front-end (parte da página que o usuário interage);
+- O Front-end é composto por HTML (estrutura), CSS (estilização) e Js (interação);
+- HTML é uma linguagem de marcação;
+
+HT - HyperText: um texto que contém referências navegáveis para outros textos.
+M - Markup: uma linguagem de marcação é uma linguagem que possui símbolos que indicam metainformações.
+L - linguagem.
+
+- O HTML5 é semântico, traz sentido na sua estruturação;
+- É pelas tags que definimos a estrutura de uma página, elas são delimitadas por "<" e ">";
+- O um elemento HTML geralmente é formado por 3 componentes:
+    Tag de abertura: <button>
+    Conteúdo: Cliqeu aqui
+    Tag de fechamento: </button>
+    Ficando da seguinte forma: <button>Clique aqui </button>
