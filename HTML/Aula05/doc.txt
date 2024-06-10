@@ -1,0 +1,10 @@
+- Para colocar uma palavra em negrito posso utilizar a tag "b" ou a tag "strong" (mais recomendada por motivos de semântica);
+- Para colocar uma palavra em itálico posso utilizar a tag "i" ou a tag "em" (mais recomendada por motivos de semântica);
+- Para sublinhar uma palavra posso utilizar a tag "u" ou a propiedade "text-decoration: underline" do css (mais recomendada por motivos de semântica);
+- Para riscar uma palavra posso utilizar a tag "s" ou alguma propiedade do css (mais recomendada por motivos de semântica);
+- Para marcar uma palavra como se fosso um marca texto posso utilizar a tag "mark";
+- Para pré formatar um bloco de palavras como se fosso uma parte de código posso utilizar a tag "pre";
+- Para pré formatar uma linha de palavras como se fosso uma parte de código posso utilizar a tag "code";
+- Para formatar uma frase como se fosso uma citação posso utilizar a tag "blockquote";
+- Para colocar uma palavras sobrescrito como se fosso uma um número elevado posso utilizar a tag "sup";
+- Para colocar uma palavras subescrito posso utilizar a tag "sub";
