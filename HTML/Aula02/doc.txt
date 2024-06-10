@@ -1,0 +1,5 @@
+- tags meta: permitem fazer predefinoções a respeito do meu documento, também ajudam a melhorar o ranqueameto de busca do meu site.
+    <meta charset="UTF-8">: conjunto de caracteres que o site vai usar. A codificação UTF-8 permite o uso de acentos.
+    <meta name="viewport": viewport é a área de renderização; 
+    content="width=device-width,: largura ser igual a largura do dispositivo;
+    -scale=1.0">: escala inicial igual a 1.0, 100%, escala normal.
