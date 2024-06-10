@@ -1,0 +1,19 @@
+- Em uma página HTML temos o cabeçalho, a parte principal e o rodapé da página.
+
+- header: é o cabeçalho, onde posso colocar minha barra de navegação;
+    - nav: tag de navegação.
+
+- main: tag para colocar meu conteúdo principla;
+
+- section: serve para dividir o conteúdo da página em seções;
+
+- article: é usado em elementos que se repetem várias vezes, posso utilizar novamente as tags header, main, footer dentro da tag article;
+
+- figure: serve para envolver imagens;
+    figcaption: posso colocar uma legenda para a imagem.
+
+- aside: conteúdo lateral;
+
+- footer: onde fica o rodapé da página
+
+- id: identificador único, não posso usar mais de uma vez;
