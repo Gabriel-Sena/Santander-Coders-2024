@@ -1,0 +1,13 @@
+- Imagens: utiliza-se da tag "img" para adicionar imagens na página html.
+    A propiedade "src" serve para colocar o onde está minha imagem;
+    A propiedade "alt" serve para colocar uma descrição alternativa;
+    Preciso saber onde minha imagem está, para referenciar o caminho certo no .
+
+- Listas:
+    ul: lista não ordenada;
+    ol: lista ordenada;
+    li: onde coloco os itens da lista.
+
+- Tags de uso generico: são tags que posso usar para colocar qualquer coisa nelas
+    span: geralmente é utilizada para estilizar algo especifico. É uma tag inline, não quebra linha;
+    div: é usado quando quero colocar itens em sequência, um ao lado do outro. É uma tag block, cria um bloco e quebra linha;
