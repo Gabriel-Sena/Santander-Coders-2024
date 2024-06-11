@@ -1,0 +1,9 @@
+- table: tag inicial para começar a construir uma tabela;
+- thead: define o cabeçalho da tabela;
+- th: para os dados que ficam dentro do thead;
+- tbody: define o corpo da tabela;
+- tr: criar uma linha para o cabeçalho da tabela;
+- td: para os dados que ficam dentro do tbody;
+- rowspan: serve para mesclar as linhas;
+  apagar a linha seguinte que estou mesclando para não dar conflito na formatação.
+- colspan: serve para mesclar colunas.
