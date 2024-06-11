@@ -1,0 +1,1 @@
+- class: é uma propiedade que posso colocar no meus elementos html e caso eu queira estilizar esse elemento é só chamar pela class que coloquei. Posso estilizar vários elementos de uma vez usando a mesma class para eles;
