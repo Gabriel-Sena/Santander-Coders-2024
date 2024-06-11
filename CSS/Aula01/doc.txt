@@ -1,0 +1,6 @@
+Posso usar o CSS de 3 maneiras:
+ - InLine: aplico o CSS na própia tag;
+ - Interno: crio uma tag style dentro do head e dassa forma posso estilizar meus elementos dentro da tag style através de um seletor (class, id etc);
+ - Externo: crio um arquivo para colocar apenas o CSS;
+
+font-weight: é a espesura da fonte, vai de 100 a 900 em um intervalo de 100;
