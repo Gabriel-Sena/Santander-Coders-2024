@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulários HTML</title>
+</head>
+<body>
+  <main>
+    <h1>Formulário</h1>
+    <hr>
+    <br>
+
+    <form action="">
+      <div>
+        <label for="texto">Nome:</label>
+        <input 
+          id="texto" 
+          type="text" 
+          placeholder="Digite seu nome..."
+          name="nome"
+          required
+        >
+      </div>
+
+      <div>
+        <label for="senha">Senha:</label>
+        <input type="password" name="senha" id="senha">
+      </div>
+
+      <div>
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email">
+      </div>
+
+      <div>
+        <label for="data">Data de Nascimento:</label>
+        <input type="date" name="data" id="data">
+      </div>
+
+      <div>
+        <label for="hora">Horário</label>
+        <input type="time" name="hora" id="hora">
+      </div>
+
+      <div>
+        <label for="numero">Número:</label>
+        <input type="number" name="numero" id="numero">
+      </div>
+
+      <div>
+        <label for="arquivo"></label>
+        <input type="file" name="arquivo" id="arquivo">
+      </div>
+
+      <div>
+        <label for="link">Link:</label>
+        <input type="url" name="link" id="link">
+      </div>
+
+      <div>
+        <label for="cor">Cor favorita:</label>
+        <input type="color" name="cor" id="cor">
+      </div>
+
+      <div>
+        <label for="faixa">Número:</label>
+        <input type="range" name="faixa" id="faixa" value="100" max="200">
+      </div>
+
+      <div>
+        <label for="selecao">Selecione a caixa:</label>
+        <input type="checkbox" name="selecao" id="selecao">
+      </div>
+
+      <div>
+        <label for="bolinha">Selecione uma opção:</label>
+        <input type="radio" name="bolinha" id="bolinha">
+      </div>
+
+      <div>
+        <input type="reset" name="limpar" id="limpar" value="Limpar">
+      </div>
+
+      <br>
+
+      <textarea name="bio" id="bio" cols="50" rows="1"></textarea>
+
+      <br><br>
+      
+      <div>
+        <select name="Selecione" id="selecionar">
+          <option value="" disabled selected>Selecione uma opção...</option>
+          <option value="receita">Receita</option>
+          <option value="dispesa">Dispesa</option>
+          <option value="transferencia">Transferência</option>
+        </select>
+      </div>
+          
+      <br>
+          
+      <div>
+        <input type="submit" name="enviar" id="enviar" value="Enviar">
+      </div>
+
+    </form>
+  </main>
+</body>
+</html>

@@ -1,0 +1,25 @@
+- inputs
+  text: cria um campo de texto digitavel;
+  password: campo para receber senha;
+  email: campo para receber email;
+  date: campo para receber data;
+  time: campo para receber a hora;
+  number: campo para receber apenas número;
+  file: campo para receber arquivos;
+  url: campo para receber url;
+  color: campo para receber cor;
+  range: cria uma faixa que dá pra arrastar e tem um tamanho que posso pre definir;
+  - checkbox: caixa de seleção multipla;
+  - radio: bolinha de seleção única;
+  - reset: botão de limpar o formulário;
+  - submit: envia as informações do formulário pelo action do formulário.
+
+- label: só funciona quando o "for" da label tem o mesmo nome que o "id" do input;
+- placeholder: texto de sugestão do input;
+- value: valor inicial de um input e o valor que será enviado quando o formulário for submetido;
+- name: serve para o js saber identificar os campos do forms;
+
+- textarea: área onde posso escrever bastante texto;
+- select: cria uma caixa de seleção com várias opções, para isso preciso usar a tag option dentro da select;
+  selected: o option que tiver essa propiedade vai começar selecionado;
+  disabled: o option que tiver essa propiedade não será uma opção selecionavel;
