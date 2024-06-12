@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+  color: #abcd;
+  font-size: 56px;
+  font-weight: 900;
+  font-style: italic;
+  text-decoration: line-through;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  text-align: justify;
+  text-indent: 30px;
+}
+
+.imagemFundo {
+  height: 100vh;
+  width: 100%;
+  background-color: #777;
+  background-image: url(https://images.unsplash.com/photo-1716690449483-598c9f7fe0d0?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}

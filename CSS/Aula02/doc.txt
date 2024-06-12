@@ -1,0 +1,15 @@
+CORES
+- cores: posso colocar cores nas coisas escrevendo o nome dalas em inglês ou no formato de hexadecimal, ex: #ad34d1.
+
+BACKGROUND
+- background-size: mexe com o tamanho da minha imagem de fundo, nele tenho duas propiedades principais:
+  cover: faz com que minha imagem cubra o elemento completamente podendo cortar minha imagem;
+  contair: faz com que a imagem se ajuste dentro do elemento, a imagem não será cortada, mas pode não cobrir todo o fundo.
+
+- background-attachment: define o jeito que a imagem de fundo vai rolar com a tela:
+  fixed: ao rolar a imagem de fundo fica fixa ta tela, criando um efeito de paralax.
+
+TEXTOS
+- text-decoration: é a "decoração" do texto, ex: underline, itálico etc;
+- text-transform: serve para definir se um texto vai ser todo maiúsculo, minúsculo etc;
+- text-indent: dá o recuo na primeira linha de um tetxto;
